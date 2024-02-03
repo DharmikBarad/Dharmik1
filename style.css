@@ -1,0 +1,18 @@
+/* Name: Dharmik Barad
+   student number: 8959296*/
+
+ body
+ {
+    font: 16px/1.5 Arial, sans-serif;
+    background-color: hsla(50, 100%, 50%, .4);
+    height: auto;
+    width: auto;
+
+ }  
+ h2 {
+    color: rgb(15, 230, 44);
+    font-size: 1.5em;
+}
+ul {
+    list-style-type: circle;
+}
