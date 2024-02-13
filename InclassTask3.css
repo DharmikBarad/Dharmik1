@@ -1,0 +1,43 @@
+.structural {
+    padding: 20px;
+    border: 1px solid #000;
+    margin: 20px;
+}
+
+header {
+    background-color: hsl(120, 50%, 80%);
+}
+
+aside {
+    background-color: hsl(240, 50%, 80%);
+    float: left;
+    width: 30%;
+}
+
+main {
+    background-color: hsl(0, 50%, 80%);
+    float: left;
+    width: 65%;
+}
+
+footer {
+    background-color: hsl(180, 50%, 80%);
+    clear: both;
+    text-align: center;
+}
+
+#paragraph1 {
+    color: rgb(255, 0, 0); 
+
+#paragraph2 {
+    color: rgb(0, 0, 255); 
+}
+
+a:hover {
+    color: #f00; 
+}
+
+footer p {
+    font-size: 0.8em;
+}
+}
