@@ -1,0 +1,86 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background: linear-gradient(to right, Black, purple);
+    color: red;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:red;
+}
+
+nav ul li a:hover {
+    color: purple; 
+}
+
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.biography {
+    width: 70%; 
+}
+
+
+aside {
+    background-image: url('B8.jpg');
+    background-size: cover;
+    width: 30%; 
+    padding: 20px;
+}
+
+aside h2 {
+    color:red;
+}
+
+aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside ul li {
+    margin-right: 400;
+    font-family: Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+
+aside ul li a {
+    text-decoration: none;
+    color: red;
+}
+
+
+footer {
+    background: linear-gradient(to right, Black, purple);
+    color: red;
+    text-align: center;
+    padding: 20px 0;
+}
+
